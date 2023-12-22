@@ -1,2 +1,1 @@
-Quiz 
-Game# Rock-Paper-Scisoor
+# Rock-Paper-Scisoor
